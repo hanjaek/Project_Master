@@ -28,7 +28,7 @@
 |FrontEnd|HTML, CSS, JavaScript|
 |BackEnd|Node.js, Flask|
 |DataBase|MySQL|
-|TOOL|vsCode|
+|TOOL|VSCode|
 |Version Management|GitHub|
 
 <br/>
