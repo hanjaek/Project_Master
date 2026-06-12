@@ -20,6 +20,15 @@
 
 <br/>
 
+## 📸 주요 페이지 소개
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="./images/image/intro1.png" width="250"/> | <img src="./images/image/intro3.png" width="250"/> | <img src="./images/image/intro5.png" width="250"/> |
+| <img src="./images/image/intro2.png" width="250"/> | <img src="./images/image/intro4.png" width="250"/> | <img src="./images/image/intro6.png" width="250"/> |
+
+<br/>
+
 ## 📖 기술 스택
 <br/>
 
